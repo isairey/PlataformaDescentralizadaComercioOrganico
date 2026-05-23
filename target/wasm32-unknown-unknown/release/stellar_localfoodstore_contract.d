@@ -1,0 +1,1 @@
+/Users/wikiwoo/Desktop/JavaTuts/stellar_ecommerce_project/target/wasm32-unknown-unknown/release/stellar_localfoodstore_contract.wasm: /Users/wikiwoo/Desktop/JavaTuts/stellar_ecommerce_project/contracts/localfoodstore/src/lib.rs /Users/wikiwoo/Desktop/JavaTuts/stellar_ecommerce_project/contracts/localfoodstore/src/test.rs
